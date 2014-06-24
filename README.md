@@ -5,6 +5,9 @@
 ## Overview
 This repo contains a Ruby on Rails Application that is being tested with Travis CI.  Travis CI is running security tests and attacks against the application. This is meant to be an example of how to setup security testing inside your CI environment.
 
+### stuff i added
+just because so the thing will run
+
 ## About the Ruby on Rails Application
 
 The app, Triage, was written by [Matt Konda](https://github.com/mkonda) and he awesomely donated it to be used for the secure pipeline project as the demo rails application.  Thanks Matt! Please see [Triage's README.md](https://github.com/Jemurai/triage/blob/master/README.md) for more infomation on the application. 
